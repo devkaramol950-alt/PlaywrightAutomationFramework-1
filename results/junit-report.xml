@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="56.196193">
+<testsuite name="addEmployee.spec.ts" timestamp="2026-05-22T17:29:30.784Z" hostname="chromium" tests="1" failures="0" skipped="0" time="50.514" errors="0">
+<testcase name="should add a new employee successfully" classname="addEmployee.spec.ts" time="50.514">
+<system-out>
+<![CDATA[{ firstName: [32m'Calvin'[39m, lastName: [32m'Zieme'[39m, middleName: [32m'Pax'[39m }
+
+[[ATTACHMENT|..\test-results\addEmployee-should-add-a-new-employee-successfully-chromium\video.webm]]
+
+[[ATTACHMENT|..\test-results\addEmployee-should-add-a-new-employee-successfully-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
